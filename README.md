@@ -84,8 +84,8 @@ customer-acquisition-sql-analysis/
 ---
 
 ## Довідник файлів репозиторію
-* [sql01`create_t.sql`](create_t.sql) — DDL-скрипт для створення бази даних та таблиць.
-* [sql02`acquisition_ch.sql`]( acquisition_ch.sql), [sql03`avg_amount.sql`]( avg_amount.sql), [sql04`query_result.sql`]( query_result.sql) — основні SQL-запити, використані для аналізу портфоліо.
+* [`create_t.sql`](create_t.sql) — основний скрипт для створення бази даних та таблиць.
+* [`acquisition_ch.sql`](acquisition_ch.sql), [`avg_amount.sql`](avg_amount.sql), [`query_result.sql`](query_result.sql) — основні SQL-запити, використані для аналізу портфоліо.
 * [`data/customers.csv`](data/customers.csv) — сирі дані про клієнтів.
 * [`data/orders.csv`](data/orders.csv) — сирі дані про транзакції та замовлення.
 * [`database/store_database.sqlite`](database/store_database.sqlite) — готовий до використання файл бази даних, що містить структуровані дані."
