@@ -23,3 +23,6 @@ Which acquisition channels bring the most valuable customers?
 ## Files
 - `analysis.sql` — SQL queries
 - `sample_data.csv` — Sample dataset
+
+## Result
+https://github.com/IrynaSenchen...
